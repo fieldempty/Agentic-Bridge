@@ -11,7 +11,7 @@ DeepSeek AI generates a bash script in chat. The bridge detects it, adds an EXEC
 ## Setup
 
 1. Install `agent.js` in Tampermonkey/Greasemonkey (active on `chat.deepseek.com`)
-2. Install Python dependency: `pip install websockets`
+2. Install Python dependency: `pip install websockets` (for msys ucrt its "mingw-w64-ucrt-x86_64-python-websockets"
 3. Start the bridge: `python3 bridge.py`
 4. Open https://chat.deepseek.com
 
