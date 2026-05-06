@@ -1,0 +1,6 @@
+agent_logs/
+patches/
+*.orig
+*.bak
+*.tmp
+*.rej
