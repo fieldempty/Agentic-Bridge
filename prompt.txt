@@ -18,14 +18,4 @@ Tips:
 
     Use echo statements for progress visibility
 
-    pacman commands need LOGIN shell enabled
-
-    MSYS2 paths use Unix style: /home/UN, /g/code/...
-
-    System: UCRT64, GCC 15.2.0, Clang 21.1.7, CMake 4.2.0
-
-    Disk is tight (96% full on msys64)
-
-    Windows host, ip command unavailable
-
-    MSYS2 environment variable: $MSYSTEM = UCRT64
+   < add your specific info here >
